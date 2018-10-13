@@ -6,7 +6,7 @@ To display question automatically but only show the answer once the question is 
 ### App Walk-though
 Once app is opened, question will pop up.
 
-<img src="https://imgur.com/k5aFJW3" width=200><br>
+<img src="https://imgur.com/k5aFJW3.gif" width=200><br>
 
 ## Required
 - [x] Create New Project in Android Studio
