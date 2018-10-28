@@ -27,7 +27,7 @@ Once app is opened, question will pop up.
 To display question automatically but only show the answer once the question is clicked. User are also able to add their own flashcard question and answer.
 
 ### App Walk-though
-<img src="https://imgur.com/WapkpHK" width=200><br>
+<img src="https://imgur.com/WapkpHK.gif" width=200><br>
 
 ## Required
 - [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
